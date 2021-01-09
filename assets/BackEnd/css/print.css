@@ -1,0 +1,44 @@
+
+body{
+    font-family : 'Times New Roman';
+    size: 12px;
+}
+
+
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+
+th{
+    height: 50px;
+}
+
+tr:nth-child(even){
+background-color :#f2f2f2;
+}
+
+table,th,td{
+    border: 1px solid black;
+}
+
+
+th{
+    padding: 10px;
+    text-align: left;   
+}
+
+
+td{
+    padding: 10px;
+    text-align: center;   
+}
+
+h1{
+    text-align: center;
+}
+
+
